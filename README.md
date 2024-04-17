@@ -4,6 +4,7 @@ Meu nome é Davi, tenho 22 anos e faço Análise e Desenvolvimento de Sistemas n
 Tenho experiência profissional como programador fullstack javascript, utilizando vários frameworks como JQuery, React, Loopback 3 e Express.
 
 Hobbies: 🎮🖥️📚
+
 Linkedin: https://www.linkedin.com/in/davigga/
 
 ---
