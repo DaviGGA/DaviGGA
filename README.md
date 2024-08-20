@@ -1,5 +1,5 @@
 <div align=center>
-<img src="./lain-gif.gif" alt="drawing" width="25%"/>
+<img src="./lain-gif.gif" alt="drawing" width="50%"/>
 </div>
 
 
