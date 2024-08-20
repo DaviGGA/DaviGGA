@@ -12,7 +12,6 @@ WIP 🚧
 
 ## Projects
 
-<img src="./lain-banner.jjif" alt="drawing" width="100%"/>
 
 
 
