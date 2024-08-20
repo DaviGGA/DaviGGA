@@ -1,6 +1,6 @@
-<div align=center>
+
   <img src="./lain-gif.gif" alt="drawing" width="50%" style="margin: 0 auto;"/>
-</div>
+
 
 ## About me
 
