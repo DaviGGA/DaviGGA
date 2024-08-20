@@ -1,6 +1,4 @@
-
-  <img src="./lain-gif.gif" alt="drawing" width="50%" style="margin: 0 auto;"/>
-
+<img src="./lain-gif.gif" alt="drawing" width="75%"/>
 
 ## About me
 
@@ -13,6 +11,8 @@
 WIP 🚧
 
 ## Projects
+
+<img src="./lain-banner.jjif" alt="drawing" width="100%"/>
 
 
 
