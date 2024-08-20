@@ -1,4 +1,7 @@
-<img src="./lain-gif.gif" alt="drawing" width="75%"/>
+<div align=center>
+<img src="./lain-gif.gif" alt="drawing" width="25%"/>
+</div>
+
 
 ## About me
 
