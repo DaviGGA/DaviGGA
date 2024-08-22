@@ -15,6 +15,6 @@ WIP 🚧
 
 ## Projects
 
-
+### [Rust projects](https://github.com/DaviGGA/rust-projects)
 
 
