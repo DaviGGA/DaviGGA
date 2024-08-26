@@ -16,5 +16,6 @@ WIP 🚧
 ## Projects
 
 ### [Rust projects](https://github.com/DaviGGA/rust-projects)
+### [Javascript projects](https://github.com/DaviGGA/js-projects)
 
 
