@@ -1,16 +1,19 @@
 ## About me
 
 - Name: Davi Gregório
-- Age: 22 yo
+- Age: 23 yo
 - Main stack: Node | JavaScript | TypeScript
-- Currently learning: Low-level programming
+- Currently learning: Low-level programming, Functional Programming
+
+<a href="https://github.com/DaviGGA/github-readme-stats%22%3E" >
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGGA&layout=compact&theme=radical" />
+</a>
 
 ## Portfolio
 WIP 🚧
 
-## Projects
 
-### [Rust projects](https://github.com/DaviGGA/rust-projects)
-### [Javascript projects](https://github.com/DaviGGA/js-projects)
 
 
